@@ -10,8 +10,8 @@ Features:-
 5. Secure API handling with .env file
 
 Tech Stack
---> Python 3.8+
---> LangChain
---> Google Gemini
---> Streamlit
---> python-dotenv
+  --> Python 3.8+
+  --> LangChain
+  --> Google Gemini
+  --> Streamlit
+  --> python-dotenv
